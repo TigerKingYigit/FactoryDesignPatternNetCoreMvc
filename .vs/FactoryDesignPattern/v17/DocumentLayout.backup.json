@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\FactoryDesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0C9F94-E11E-46A5-933B-7B9D701B6891}|FactoryDesignPattern.csproj|c:\\users\\user\\source\\repos\\factorydesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0C9F94-E11E-46A5-933B-7B9D701B6891}|FactoryDesignPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0C9F94-E11E-46A5-933B-7B9D701B6891}|FactoryDesignPattern.csproj|c:\\users\\user\\source\\repos\\factorydesignpattern\\views\\product\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C0C9F94-E11E-46A5-933B-7B9D701B6891}|FactoryDesignPattern.csproj|solutionrelative:views\\product\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0C9F94-E11E-46A5-933B-7B9D701B6891}|FactoryDesignPattern.csproj|c:\\users\\user\\source\\repos\\factorydesignpattern\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0C9F94-E11E-46A5-933B-7B9D701B6891}|FactoryDesignPattern.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0C9F94-E11E-46A5-933B-7B9D701B6891}|FactoryDesignPattern.csproj|c:\\users\\user\\source\\repos\\factorydesignpattern\\models\\concrete\\productb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0C9F94-E11E-46A5-933B-7B9D701B6891}|FactoryDesignPattern.csproj|solutionrelative:models\\concrete\\productb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0C9F94-E11E-46A5-933B-7B9D701B6891}|FactoryDesignPattern.csproj|c:\\users\\user\\source\\repos\\factorydesignpattern\\services\\concrete\\productfactoryb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0C9F94-E11E-46A5-933B-7B9D701B6891}|FactoryDesignPattern.csproj|solutionrelative:services\\concrete\\productfactoryb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0C9F94-E11E-46A5-933B-7B9D701B6891}|FactoryDesignPattern.csproj|c:\\users\\user\\source\\repos\\factorydesignpattern\\services\\concrete\\productfactorya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0C9F94-E11E-46A5-933B-7B9D701B6891}|FactoryDesignPattern.csproj|solutionrelative:services\\concrete\\productfactorya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0C9F94-E11E-46A5-933B-7B9D701B6891}|FactoryDesignPattern.csproj|c:\\users\\user\\source\\repos\\factorydesignpattern\\services\\abstract\\iproductfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0C9F94-E11E-46A5-933B-7B9D701B6891}|FactoryDesignPattern.csproj|solutionrelative:services\\abstract\\iproductfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0C9F94-E11E-46A5-933B-7B9D701B6891}|FactoryDesignPattern.csproj|c:\\users\\user\\source\\repos\\factorydesignpattern\\models\\concrete\\producta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0C9F94-E11E-46A5-933B-7B9D701B6891}|FactoryDesignPattern.csproj|solutionrelative:models\\concrete\\producta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0C9F94-E11E-46A5-933B-7B9D701B6891}|FactoryDesignPattern.csproj|c:\\users\\user\\source\\repos\\factorydesignpattern\\models\\abstract\\baseproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0C9F94-E11E-46A5-933B-7B9D701B6891}|FactoryDesignPattern.csproj|solutionrelative:models\\abstract\\baseproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FactoryDesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FactoryDesignPattern\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:27:29.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FactoryDesignPattern\\Views\\Product\\Product.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Product.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FactoryDesignPattern\\Views\\Product\\Product.cshtml*",
+              "RelativeToolTip": "Views\\Product\\Product.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T18:24:58.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FactoryDesignPattern\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FactoryDesignPattern\\Controllers\\ProductController.cs*",
+              "RelativeToolTip": "Controllers\\ProductController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:22:52.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductFactoryB.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FactoryDesignPattern\\Services\\Concrete\\ProductFactoryB.cs",
+              "RelativeDocumentMoniker": "Services\\Concrete\\ProductFactoryB.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FactoryDesignPattern\\Services\\Concrete\\ProductFactoryB.cs*",
+              "RelativeToolTip": "Services\\Concrete\\ProductFactoryB.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:20:48.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductFactoryA.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FactoryDesignPattern\\Services\\Concrete\\ProductFactoryA.cs",
+              "RelativeDocumentMoniker": "Services\\Concrete\\ProductFactoryA.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FactoryDesignPattern\\Services\\Concrete\\ProductFactoryA.cs*",
+              "RelativeToolTip": "Services\\Concrete\\ProductFactoryA.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:20:41.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FactoryDesignPattern\\Services\\Abstract\\IProductFactory.cs",
+              "RelativeDocumentMoniker": "Services\\Abstract\\IProductFactory.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FactoryDesignPattern\\Services\\Abstract\\IProductFactory.cs*",
+              "RelativeToolTip": "Services\\Abstract\\IProductFactory.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:20:04.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductB.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FactoryDesignPattern\\Models\\Concrete\\ProductB.cs",
+              "RelativeDocumentMoniker": "Models\\Concrete\\ProductB.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FactoryDesignPattern\\Models\\Concrete\\ProductB.cs*",
+              "RelativeToolTip": "Models\\Concrete\\ProductB.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:11:37.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductA.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FactoryDesignPattern\\Models\\Concrete\\ProductA.cs",
+              "RelativeDocumentMoniker": "Models\\Concrete\\ProductA.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FactoryDesignPattern\\Models\\Concrete\\ProductA.cs*",
+              "RelativeToolTip": "Models\\Concrete\\ProductA.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:11:29.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseProduct.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FactoryDesignPattern\\Models\\Abstract\\BaseProduct.cs",
+              "RelativeDocumentMoniker": "Models\\Abstract\\BaseProduct.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FactoryDesignPattern\\Models\\Abstract\\BaseProduct.cs*",
+              "RelativeToolTip": "Models\\Abstract\\BaseProduct.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:09:16.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
